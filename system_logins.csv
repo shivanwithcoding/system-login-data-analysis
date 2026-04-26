@@ -1,0 +1,7 @@
+timestamp,user_id,ip_address,country,success,os
+2024-04-20 08:15:00,john,192.168.1.10,Uganda,True,Windows
+2024-04-20 08:17:10,mary,192.168.1.11,Kenya,False,Linux
+2024-04-20 08:20:00,john,192.168.1.10,Uganda,False,Windows
+2024-04-20 08:25:00,peter,10.0.0.5,Tanzania,True,MacOS
+2024-04-20 08:30:00,mary,192.168.1.11,Kenya,False,Linux
+2024-04-20 08:35:00,john,192.168.1.10,Uganda,True,Windows
